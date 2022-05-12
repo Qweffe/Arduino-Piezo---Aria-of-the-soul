@@ -1,0 +1,1 @@
+﻿Piezo Speaker 1 wired to pin 8 
